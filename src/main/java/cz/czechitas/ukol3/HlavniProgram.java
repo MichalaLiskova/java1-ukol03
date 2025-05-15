@@ -10,7 +10,6 @@ public class HlavniProgram {
         System.out.println("Program spuštěn.");
 
         Pocitac fibi = new Pocitac("Fibi");
-        Pocitac misa = new Pocitac("Misa");
         Procesor procesor = new Procesor();
         Pamet pamet = new Pamet();
         Disk disk = new Disk();
